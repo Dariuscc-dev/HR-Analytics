@@ -52,7 +52,7 @@ Performance & Satisfaction
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/532c8029-193d-40ed-9256-ff7071573fce" />
 Attrition Analysis
 <img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/38f5de0d-ebd9-421a-b580-0a3155005349" />
-Mmodel View
+Model View
 <img width="1304" height="813" alt="Model View" src="https://github.com/user-attachments/assets/c01c8145-06c5-4286-9113-27ed8015e46e" />
 🗄️ Appendix: Advanced DAX Measures Repository
 <details>
